@@ -6,7 +6,7 @@ import simplegit from 'simple-git/promise';
 
 export const gitCommitAndPush = async (commitDates: string[]): Promise<void> => {
   const { user } = await inquirer.prompt({ name: 'user', message: 'Github Username : ' });
-  const { email } = await inquirer.prompt({ name: 'user', message: 'Github Email : ' });
+  const { email } = await inquirer.prompt({ name: 'email', message: 'Github Email : ' });
   const { pass } = await inquirer.prompt({ name: 'pass', message: 'Github Password : ', type: 'password' });
   const repoName = 'gitfaker';
   const repo = `github.com/${user}/${repoName}`;

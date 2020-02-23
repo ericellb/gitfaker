@@ -20,7 +20,7 @@ export const getWordWidth = (word: any) => {
 
 export const formatWord = (message: string) => {
   // Finds words seperated by spaces
-  const words = message.match(/([a-zA-z])+/g);
+  const words = message.toLocaleLowerCase().match(/([a-zA-z])+/g);
   let finalMessage = '';
 
   // Adds spacing character between letters
