@@ -2,7 +2,7 @@
 
 Git Faker is a tool that allows you to create fake Git Contribution history by typing in a custom message!
 
-This tool was created in order to make some cool custom mugs using https://shop.devmugs.com/
+This tool was created in order to make some cool custom swag using https://shop.devmugs.com/ or https://www.gitbrick.com/
 
 This was not created in order to fool people that you code alot, and is not inteded to be used for malicious purposes.
 
