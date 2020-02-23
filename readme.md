@@ -40,7 +40,7 @@ You must have a Git Repository on your Account with the name `gitfaker`
 Sample
 
 ```
-? In order for this tool to work you must provide your Github Username, Email and Password. None of this information is stored. It's only used to create the commits. You must have a repository named 'gitfaker'
+? In order for this tool to work you must provide your Github Username, Email and Password. None of this information is stored. It's only used to create the commits.
 
  You must have a Git Repository created with the name 'gitfaker'
 
