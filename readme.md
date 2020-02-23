@@ -22,6 +22,8 @@ In order to use the tool, clone the repository and start the program.
 
 ```
 git clone https://github.com/ericellb/gitfaker
+cd gitfaker
+npm install
 npm start
 ```
 

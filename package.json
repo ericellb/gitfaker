@@ -7,9 +7,7 @@
     "lint": "./node_modules/.bin/eslint --ignore-path .gitignore .",
     "start": "ts-node src/index.ts",
     "test": "jest",
-    "test:watch": "jest --watch",
-    "prepush": "npm run lint && npm test",
-    "precommit": "npm run lint && npm test"
+    "test:watch": "jest --watch"
   },
   "author": "",
   "license": "ISC",
@@ -30,7 +28,6 @@
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-prettier": "^3.1.2",
-    "husky": "^3.1.0",
     "jest": "^24.9.0",
     "prettier": "^1.19.1",
     "ts-jest": "^24.2.0",
