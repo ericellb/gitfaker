@@ -27,9 +27,7 @@ npm install
 npm start
 ```
 
-The tool allows you to type a custom message, and create a git contribution history that can be used to create cool mugs using https://shop.devmugs.com/
-
-The tool will ask you for your Github Username, Email and Password. NONE of this information is stored, and it is only sent to Github for authentication purposes.
+The tool will ask you for your Github Username, Email and Password. NONE of this information is stored, and it is only used by Github for authentication purposes.
 
 You must have a Git Repository on your Account with the name `gitfaker`
 
