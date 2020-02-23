@@ -51,7 +51,7 @@ Sample
 
 ? Create your message! (max typically 8-11 chars) This is fun
 ? Github Username :  ericfakertest
-? Github Email :  kudrajalip@matra.site
+? Github Email :  [hidden]
 ? Github Password :  [hidden]
 Successfully created the message, check out your contribution history!
 ```
