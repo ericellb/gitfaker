@@ -18,6 +18,13 @@ node
 
 ### Using the Tool
 
+In order to use the tool, clone the repository and start the program.
+
+```
+git clone https://github.com/ericellb/gitfaker
+npm start
+```
+
 The tool allows you to type a custom message, and create a git contribution history that can be used to create cool mugs using https://shop.devmugs.com/
 
 The tool will ask you for your Github Username, Email and Password. NONE of this information is stored, and it is only sent to Github for authentication purposes.
