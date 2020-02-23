@@ -27,7 +27,7 @@ npm install
 npm start
 ```
 
-The tool will ask you for your Github Username, Email and Password. NONE of this information is stored, and it is only used by Github for authentication purposes.
+The tool will ask you for your Github Username, Email and Password. NONE of this information is stored, and it is only used by Github for authentication purposes. (If you are curious view the following file for is being done with then authentication information https://github.com/ericellb/gitfaker/blob/master/src/git.ts)
 
 You must have a Git Repository on your Account with the name `gitfaker`
 
