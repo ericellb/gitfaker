@@ -1,8 +1,8 @@
 # Git Faker
 
-Git Faker is a tool that allows you to create fake Git Contribution history by typing in a custom message!
+Git Faker is a tool that allows you to create fake Git Contribution history with custom Pixel Font messages.
 
-This tool was created in order to make some cool custom mugs using https://shop.devmugs.com/
+This tool was created in order to make some cool custom swag using https://shop.devmugs.com/ or https://www.gitbrick.com/ (there are also various others)
 
 This was not created in order to fool people that you code alot, and is not inteded to be used for malicious purposes.
 
@@ -27,9 +27,7 @@ npm install
 npm start
 ```
 
-The tool allows you to type a custom message, and create a git contribution history that can be used to create cool mugs using https://shop.devmugs.com/
-
-The tool will ask you for your Github Username, Email and Password. NONE of this information is stored, and it is only sent to Github for authentication purposes.
+The tool will ask you for your Github Username, Email and Password. NONE of this information is stored, and it is only used by Github for authentication purposes. (If you are curious view the following file for is being done with the authentication information https://github.com/ericellb/gitfaker/blob/master/src/git.ts)
 
 You must have a Git Repository on your Account with the name `gitfaker`
 
@@ -42,7 +40,7 @@ You must have a Git Repository on your Account with the name `gitfaker`
 Sample
 
 ```
-? In order for this tool to work you must provide your Github Username, Email and Password. None of this information is stored. It's only used to create the commits. You must have a repository named 'gitfaker'
+? In order for this tool to work you must provide your Github Username, Email and Password. None of this information is stored. It's only used to create the commits.
 
  You must have a Git Repository created with the name 'gitfaker'
 
@@ -51,7 +49,7 @@ Sample
 
 ? Create your message! (max typically 8-11 chars) This is fun
 ? Github Username :  ericfakertest
-? Github Email :  kudrajalip@matra.site
+? Github Email :  [hidden]
 ? Github Password :  [hidden]
 Successfully created the message, check out your contribution history!
 ```
