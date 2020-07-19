@@ -17,7 +17,7 @@
     "@types/node": "^13.1.4",
     "@types/rimraf": "^2.0.3",
     "inquirer": "^7.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "rimraf": "^3.0.2",
     "simple-git": "^1.131.0"
   },
