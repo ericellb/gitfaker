@@ -19,7 +19,7 @@
     "inquirer": "^7.0.4",
     "lodash": "^4.17.15",
     "rimraf": "^3.0.2",
-    "simple-git": "^1.131.0"
+    "simple-git": "^3.3.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
